@@ -17,6 +17,7 @@ Topics include:
 11) AI and Ethics
 
 Homework 1: 
+  
   The N-puzzle game consists of a board holding N = m^2 − 1 distinct movable tiles, plus one empty space. There is
 one tile for each number in the set {0, 1,..., m2 − 1}. In this assignment, we will represent the blank space with the
 number 0 and focus on the m = 3 case (8-puzzle).
@@ -29,11 +30,15 @@ be equal to the number of moves made.
 In my solution I implement 3 algorithms; bfs (Breadth-First Search), dfs (Depth-First Search) and ast (A-Star Search) with the Manhattan priority function heuristic.
 
 Homework 2:
+  
   My implementation of a Sudoku solver. Here I implement a backtracking search using the minimum remaining value heuristic, and I apply forward checking to reduce the variables' domains.
 
 Homework 3:
+  
   My implementation of an adversarial search agent to play the 2048-puzzle game.
   The following was implemented in the solution: expectiminimax algorithm, alpha-beta pruning, multiple heuristic functions, and heuristic weights.
+
 Homework 4:
+  
   My implementation of two small and separate machine learning algorithms, the Perceptron and Linear Regression. 
     
